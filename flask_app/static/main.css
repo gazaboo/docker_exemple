@@ -1,0 +1,16 @@
+.all{
+    width: 80%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    width: 50%;
+    border-style: solid;
+}
+
+p{
+    text-align: center;
+}
